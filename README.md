@@ -5,7 +5,8 @@ Repository ini berisi website profil pribadi yang dibuat sebagai representasi di
 Website ini dibangun dengan struktur sederhana namun modern, menggunakan kombinasi HTML, CSS, dan JavaScript sebagai fondasi utama. Beberapa fitur yang tersedia antara lain:
 
 🌙 Dark/Light Mode
-
+Nama: Muhammad Yusril
+Alamat: Arasoe
 👋 Sapaan dinamis untuk pengalaman yang lebih personal
 
 🎨 Desain minimalis dan responsif
