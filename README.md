@@ -7,6 +7,7 @@ Website ini dibangun dengan struktur sederhana namun modern, menggunakan kombina
 🌙 Dark/Light Mode
 Nama: Muhammad Yusril
 Alamat: Arasoe
+Umur: 20 Tahun
 👋 Sapaan dinamis untuk pengalaman yang lebih personal
 
 🎨 Desain minimalis dan responsif
